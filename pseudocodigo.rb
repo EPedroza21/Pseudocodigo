@@ -27,29 +27,29 @@ end
 p best_students(students) == ["Deborah","D'angelo","Theodora","Hilma","Lina"]
 
 
-Inicio
-  Definir el método 'best_students' al que se le agrega un parametro 'students'
-    Inicializar 'best_students' como un array vacío
-    Asigna el valor de 0 a las variables 'x', 'y'
+# Inicio
+#   Definir el método 'best_students' al que se le agrega un parametro 'students'
+#     Inicializar 'best_students' como un array vacío
+#     Asigna el valor de 0 a las variables 'x', 'y'
       
-      Mientras 'y' sea menor que la longitud de 'students'
-        Separa el paramétro de 'students' en las variables 'x', 'y' asignandole ese nuevo valor a 'current_stuydents'
+#       Mientras 'y' sea menor que la longitud de 'students'
+#         Separa el paramétro de 'students' en las variables 'x', 'y' asignandole ese nuevo valor a 'current_stuydents'
       
-        Si el indice 1 de 'current_students' es igual igual a 10
-        Agrega el valor del 'current_students' al array 'best_students'
-        Fin
+#         Si el indice 1 de 'current_students' es igual igual a 10
+#         Agrega el valor del 'current_students' al array 'best_students'
+#         Fin
 
-      Si 'x' es igual a la longitud -1 del valor de 'y' en 'students'
-        'x' es igual a 0
-        'y' se establece en un contador +1
-      Si no
-        'x' se establece en un contador +1
-      Fin
-    Fin
-    Se llama al método 'best_students'
-Fin del método
+#       Si 'x' es igual a la longitud -1 del valor de 'y' en 'students'
+#         'x' es igual a 0
+#         'y' se establece en un contador +1
+#       Si no
+#         'x' se establece en un contador +1
+#       Fin
+#     Fin
+#     Se llama al método 'best_students'
+# Fin del método
 
-Imprimir el método 'best_students' con el parámetro ('students')
+# Imprimir el método 'best_students' con el parámetro ('students')
 
 
 
